@@ -1,5 +1,6 @@
 //............................................. Start del código .............................................................................
 /*
+Sobre esto:
 Este programa resuelve el sistema de Lorenz utilizando el método de Runge-Kutta de 4º orden.
 Está diseñado para ser portátil y ejecutable en cualquier computadora con un compilador C++ estándar, es solo una implmentación simple.
 El código está estructurado en clases para el sistema de Lorenz y el obvio solucionador de Runge-Kutta,
