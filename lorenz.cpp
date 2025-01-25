@@ -11,7 +11,7 @@ It is designed to be portable and runnable on any computer with a standard C++ c
 The code is structured into classes for the Lorenz system and the Runge-Kutta solver,
 with a main function to orchestrate the simulation and output the results to a CSV file.
 
-By Felipe Correa Rodríguez.
+By Felipe Correa Rodríguez / Feri.
 */
 // ............................................. ............................................. .............................................
 
